@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [MainPage.xaml](./CS/SL ChartInDetail/MainPage.xaml) (VB: [MainPage.xaml](./VB/SL ChartInDetail/MainPage.xaml))
-* [MainPage.xaml.cs](./CS/SL ChartInDetail/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/SL ChartInDetail/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/SL ChartInDetail/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/SL ChartInDetail/MainPage.xaml.vb))
 <!-- default file list end -->
 # Displaying chart control in grid details
 
